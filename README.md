@@ -1,2 +1,3 @@
 # PY895
-Homework notebooks for PY895
+Homework notebooks for PY895, answers by Christopher Cosby are inline with...
+> block comment formatting
